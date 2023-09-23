@@ -1,7 +1,7 @@
 {
   "name": "uikore",
   "description": "React component library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Hacene SADOUDI <sadoudi2019@gmail.com>",
   "main": "lib/index.js",
   "module": "lib/index.esm.js",
