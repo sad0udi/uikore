@@ -1,14 +1,14 @@
 {
   "name": "uikore",
   "description": "React component library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Hacene SADOUDI <sadoudi2019@gmail.com>",
   "main": "lib/index.js",
   "module": "lib/index.esm.js",
   "types": "lib/index.d.ts",
   "license": "MIT",
   "publishConfig": {
-    "@sh3:registry":"https://npm.pkg.github.com/"
+    "@sh3:registry": "https://npm.pkg.github.com/"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.22.20",
