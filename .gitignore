@@ -1,0 +1,8 @@
+lib/
+node_modules/
+build/
+storybook-static/
+.vscode
+*.DS_Store
+
+*storybook.log
